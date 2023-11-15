@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+# Scraped Exclusivly By SabbirIPTV
+# Visit (https://github.com/sabbiriptv) For More
+# Please Give Credit Before Sharing 😀
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjkyMjk1MDk4NjMxIn0.eyJzdWIiOiIxNDIyNDIxOTQ5IiwiaXNlIjp0cnVlLCJqdGkiOiI4OTkyZWJkNy0wOTk1LTQ1NGEtODk3Yy02Y2UxMTU3YjAzODMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNzAwMTE3MjQ5LCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNzAwMDMwODQ5LCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxNTIzIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzOCJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwMzUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMDAxIn1dLCJjc21vIjp7Im1hcyI6IjYiLCJkdCI6InRwbWEiLCJtYXNkIjoiMiJ9LCJpc3MiOiJ0cG1hX3dlYiJ9.pXmfyk5kgJTTRiaDhGZ5pYB3qVGmzN_P8TeDr18eiCc
+#EXTINF:-1 tvg-id="840" group-title="Spiritual - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" ,SSH
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
